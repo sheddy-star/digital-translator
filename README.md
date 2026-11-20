@@ -1,3 +1,8 @@
-# mission-03-solo-814-py-section-1-mission-project-the-digital-transla
+# Py-SECTION 1 MISSION PROJECT — THE DIGITAL TRANSLATOR
 
-Py-SECTION 1 MISSION PROJECT — THE DIGITAL TRANSLATOR - Solo 814
+Mission: mission-03
+Squad: Solo 814
+
+This repository was created for the Squad mission workspace.
+
+Use this repository for the team's implementation. Commit and push all meaningful work to Gitea, then submit the Mission for inspection from TalentNation when the Squad is ready.
